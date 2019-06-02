@@ -6,6 +6,9 @@ h2 {
   font-weight: bold;
   width: 30%;
   height: 800px;
+  border: 2px solid black;
+  padding: 4px;
+  margin: 12px;
   float: right;
   background-color: skyblue;
 }
@@ -13,9 +16,13 @@ h2 {
 .main {
   font-style: italic;
   height: 800px;
+  border: 2px solid black;
+  padding: 4px;
+  margin: 12px;
   background-color: lightgreen;
 }
 
 img {
   float: left;
+  padding: 6px;
 }

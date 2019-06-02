@@ -1,0 +1,21 @@
+h2 {
+  text-align: center;
+}
+
+.sidebar {
+  font-weight: bold;
+  width: 30%;
+  height: 800px;
+  float: right;
+  background-color: skyblue;
+}
+
+.main {
+  font-style: italic;
+  height: 800px;
+  background-color: lightgreen;
+}
+
+img {
+  float: left;
+}

@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a basic webpage written with HTML and CSS that I created for practice using floats. It represents a webpage for a fictional band._
+_This is a basic webpage written with HTML and CSS that I created for practice using floats and columns. It represents a webpage for a fictional band._
 
 ## Setup/Installation Requirements
 
